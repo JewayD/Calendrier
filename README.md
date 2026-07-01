@@ -1,8 +1,8 @@
-# 📅 Calendrier scolaire 2025–2026 – La Réunion 🇷🇪
+# 📅 Calendrier scolaire 2026–2027 – La Réunion 🇷🇪
 
 Lien de téléchargement en fin de page 
 
-Ce projet fournit un **fichier `.ics` libre et modifiable** contenant les **périodes scolaires** de La Réunion pour l’année 2025–2026.  
+Ce projet fournit un **fichier `.ics` libre et modifiable** contenant les **périodes scolaires** de La Réunion pour l’année 2026–2027.  
 Il est destiné à une utilisation simple et sans publicité dans toute application de calendrier compatible (Fossify Calendar, Etar, Thunderbird, Google Calendar, Apple Calendar.).
 
 ## 🎓 Contenu
@@ -10,11 +10,11 @@ Il est destiné à une utilisation simple et sans publicité dans toute applicat
 - 🟢 **Périodes scolaires P1 à P5**, avec :
 - 📆 Étiquettes hebdomadaires (ex. : "Sem 3/8")
 - 🔴 **Vacances scolaires** (correspondent aux semaines non marquées)
-- 📅 Couverture : **août 2025 → juillet 2026**
+- 📅 Couverture : **août 2026 → juillet 2027**
 
 ## 🔄 Format
 
-Fichier : `Calendrier_Scolaire_Reunion_2025_2026.ics`  
+Fichier : `Calendrier_Scolaire_Reunion_2026_2027.ics`  
 Format : standard **iCalendar** (.ics), compatible avec tous les logiciels calendaires modernes.
 
 ## 🧑‍🏫 Installation et utilisation
@@ -38,7 +38,7 @@ En cliquant sur le fichier récemment téléchargé, il s'ouvre avec l'applicati
 #### 🔹 **Thunderbird** (avec Lightning) :
 1. Fichier → Nouveau → Calendrier
 2. Choisir "Sur cet ordinateur" → Suivant
-3. Nommer le calendrier (ex : "Réunion 2025–2026")
+3. Nommer le calendrier (ex : "Réunion 2026–2027")
 4. Aller dans Fichier → Importer → Choisir le fichier `.ics`
 
 #### 🔹 Autres applications compatibles :
