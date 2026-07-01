@@ -79,4 +79,4 @@ Parce que les enseignants, familles et personnels éducatifs à La Réunion mér
 
 ## 📎 Téléchargement direct
 
-👉 https://drive.google.com/file/d/11YVn9E5DIyulcGdnysI-D6pDM48WypUN/view?usp=sharing
+👉 https://drive.google.com/file/d/1kp7r5m-C5dIyyjx_oU1Pb4Jc5ncHPfm8/view?usp=drive_link
